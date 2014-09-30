@@ -15,6 +15,7 @@ namespace UnityChan
 	{
 		//半径
 		public float radius = 0.5f;
+		// テスト
 
 		private void OnDrawGizmosSelected ()
 		{
